@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+
+  <!-- FAVICON - activar cuando tengas el archivo subido -->
+  <!-- <link rel="icon" type="image/png" href="NOMBRE_DEL_ARCHIVO.png"> -->
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <title>Login</title>
+  <meta name="description" content="Acceso a la plataforma.">
+
+  <!-- Open Graph (Vista previa en WhatsApp, Facebook, etc.) -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Login">
+  <meta property="og:description" content="Acceso a la plataforma.">
+
+  <!-- Cambiar esta URL cuando tengas el enlace final de GitHub Pages -->
+  <meta property="og:url" content="https://logoartcr.github.io/NOMBRE_DEL_REPOSITORIO/">
+
+  <!-- Imagen de vista previa - activar cuando tengas el archivo subido -->
+  <!-- <meta property="og:image" content="https://logoartcr.github.io/NOMBRE_DEL_REPOSITORIO/NOMBRE_DEL_ARCHIVO.png"> -->
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background-color: #f4f4f4;
+    }
+
+    #mi-login {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+
+  <iframe id="mi-login" src="https://script.google.com/macros/s/AKfycbxyQ3FMVn0RyLRrZ3yEBPORSUocVL57fOKN--og7-V-EBxapvKwXcSVhk1wtyTRBDO6-g/exec"></iframe>
+
+</body>
+</html>
